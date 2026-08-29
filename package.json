@@ -1,0 +1,18 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "a backend at spider-man computer",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "spider-man"
+  ],
+  "license": "ISC",
+  "author": "Arpit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
